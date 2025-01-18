@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
+    "@davidsneighbour/markdownlint-config": "2025.0.1",
     "@davidsneighbour/tools": "2025.0.1",
     "autoprefixer": "10.4.20",
     "jsdom": "26.0.0",
